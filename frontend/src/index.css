@@ -1,0 +1,86 @@
+#navbarSupportedContent ul li a{
+  margin-left: 2rem;
+  cursor: pointer;
+}
+.links:hover{
+  color: #387ed1 !important;
+}
+.navbar{
+  height: 68px;
+  border-bottom: 1px solid hsl(0, 0%, 90%);
+}
+.arrowbtn:hover{
+  color: #505152 !important;
+  text-decoration: none;
+}
+.footer-links ul li{
+  list-style: none;
+  margin-top: 0.75rem;
+  color: rgba(0, 0, 0, 0.566);
+}
+.footer-links ul li:hover{
+  color: #387ed1 !important;
+  text-decoration: none;
+  cursor: pointer;
+}
+.about-heading{
+  margin: 12rem;
+  margin-top: 2rem;
+  padding: 2rem;
+  padding-left: 5rem;
+  margin-bottom: 0;
+  line-height: 2.5rem;
+  font-weight: normal;
+  
+}
+.about-row{
+  margin-bottom: 7rem;
+  border-bottom: 1px solid hsl(0, 0%, 90%);
+
+}
+.about-div{
+  padding-bottom: 5rem !important;
+}
+.about-text p{
+  font-size: 1.15rem;
+  line-height: 2.25rem;
+  margin-bottom: 0.95rem;
+}
+.team-photo{
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5rem;
+  margin-left: 11rem;
+  margin-bottom: 2rem;
+}
+.team-txt{
+  margin-left: 2.75rem;
+  margin-bottom: 1.7rem;
+}
+.right-sec-heading{
+  margin-top: 15rem !important;
+}
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportHero a{
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+
+#supportHero input{
+  padding: 20px 50px;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+}
